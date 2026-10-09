@@ -1,0 +1,873 @@
+{
+  "meta": {
+    "siteName": "Hogares Victoria",
+    "legalName": "Asociación Hogares Victoria de España",
+    "titleTemplate": "{page} · Hogares Victoria",
+    "pages": {
+      "home": {
+        "title": "Hogares Victoria · Acogida y acompañamiento ante las adicciones",
+        "description": "Asociación sin ánimo de lucro en Madrid. Acogida residencial, acompañamiento y prevención para personas afectadas por las adicciones. Lo hemos vivido. Lo hemos sufrido. Lo hemos vencido."
+      },
+      "help": {
+        "title": "Necesito ayuda",
+        "description": "Si estás pasando por una adicción, o acompañas a alguien que la vive, puedes hablar con nosotros. Te explicamos cómo contactar y qué ocurre después."
+      },
+      "about": {
+        "title": "Quiénes somos",
+        "description": "Nacida en Perú en 1986 y presente en Madrid desde 2023. Historia, misión, valores, fundadores y reconocimientos de la Asociación Hogares Victoria de España."
+      },
+      "work": {
+        "title": "Nuestra labor",
+        "description": "Acogida residencial, acompañamiento personal, apoyo a las familias, intervención en calle, formación, reinserción y cobertura de necesidades básicas."
+      },
+      "stories": {
+        "title": "Historias",
+        "description": "Testimonios y material audiovisual publicados por Hogares Victoria: el testimonio del pastor Alfredo Pedraza, la entrevista en TBN España y más."
+      },
+      "impact": {
+        "title": "Impacto y transparencia",
+        "description": "Resultados de 2025 y 2024, memorias de actividades y memorias económicas de la Asociación Hogares Victoria de España, disponibles para su descarga."
+      },
+      "give": {
+        "title": "Colabora y dona",
+        "description": "Donativos por PayPal o transferencia bancaria, voluntariado y otras formas de sostener la labor de Hogares Victoria en Madrid."
+      },
+      "volunteer": {
+        "title": "Voluntariado",
+        "description": "Tu tiempo también puede formar parte de un proceso de recuperación. Escríbenos y cuéntanos cómo te gustaría colaborar."
+      },
+      "contact": {
+        "title": "Contacto",
+        "description": "Teléfono, correo electrónico y formulario de contacto de la Asociación Hogares Victoria de España."
+      },
+      "legal": {
+        "title": "Aviso legal",
+        "description": "Datos identificativos de la Asociación Hogares Victoria de España."
+      },
+      "privacy": {
+        "title": "Política de privacidad",
+        "description": "Cómo tratamos los datos personales que nos facilitas a través de esta web."
+      },
+      "cookies": {
+        "title": "Política de cookies",
+        "description": "Información sobre el uso de cookies y servicios externos en esta web."
+      },
+      "notFound": {
+        "title": "Página no encontrada",
+        "description": "La página que buscas no existe o ha cambiado de dirección."
+      }
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Quiénes somos",
+    "work": "Qué hacemos",
+    "stories": "Historias",
+    "impact": "Impacto",
+    "give": "Colabora",
+    "contact": "Contacto",
+    "volunteer": "Voluntariado",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "openMenu": "Abrir el menú de navegación",
+    "closeMenu": "Cerrar el menú de navegación",
+    "primary": "Navegación principal",
+    "skip": "Ir al contenido principal",
+    "language": "Idioma",
+    "languageSwitch": "Cambiar idioma",
+    "spanish": "Español",
+    "english": "English"
+  },
+  "cta": {
+    "help": "Necesito ayuda",
+    "helpShort": "Ayuda",
+    "donate": "Donar",
+    "donateLong": "Hacer una donación",
+    "volunteer": "Quiero ser voluntario",
+    "collaborate": "Quiero colaborar",
+    "otherWays": "Otras formas de colaborar",
+    "knowUs": "Descubre quiénes somos",
+    "ourStory": "Conoce nuestra historia",
+    "seeProgram": "Ver el programa",
+    "ourWork": "Conoce nuestra labor",
+    "ourImpact": "Conoce nuestro impacto",
+    "ourStories": "Conoce nuestras historias",
+    "allDocs": "Ver todas las memorias",
+    "call": "Llamar al {phone}",
+    "writeUs": "Escríbenos",
+    "backHome": "Volver al inicio"
+  },
+  "common": {
+    "year": "Año",
+    "results": "Resultados de {year}",
+    "source": "Fuente",
+    "sources": "Fuentes",
+    "download": "Descargar PDF",
+    "openInNewTab": "se abre en una pestaña nueva",
+    "pdfSize": "PDF · {size}",
+    "readMore": "Seguir leyendo",
+    "note": "Nota",
+    "watch": "Ver el vídeo",
+    "required": "obligatorio",
+    "optional": "opcional",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "copyIban": "Copiar el IBAN",
+    "ibanCopied": "IBAN copiado al portapapeles",
+    "free": "Gratuito",
+    "privacyNoteShort": "Protegemos la identidad de las personas atendidas."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Asociación Hogares Victoria de España",
+      "title": "Todos merecemos una segunda oportunidad.",
+      "lead": "En Hogares Victoria acompañamos a personas que enfrentan las adicciones, ofreciéndoles acogida, apoyo y esperanza para comenzar de nuevo.",
+      "scroll": "Sigue leyendo"
+    },
+    "manifesto": {
+      "label": "Nuestro lema",
+      "line1": "Lo hemos vivido.",
+      "line2": "Lo hemos sufrido.",
+      "line3": "Lo hemos vencido.",
+      "body1": "Quienes acompañamos en Hogares Victoria conocemos este camino desde dentro. No hablamos de la adicción como un asunto ajeno: hablamos de algo que hemos atravesado, con sus días imposibles y sus vueltas atrás.",
+      "body2": "Por eso nuestra forma de ayudar no empieza por un diagnóstico, sino por una conversación. Escuchar sin juzgar, compartir una comida, acompañar a una gestión, estar al otro lado del teléfono. Lo demás viene después, al ritmo de cada persona."
+    },
+    "intro": {
+      "label": "Quiénes somos",
+      "title": "Un hogar puede ser el principio de una nueva historia.",
+      "body1": "Hogares Victoria es una asociación civil sin ánimo de lucro, de inspiración cristiana, dedicada a la acogida, la orientación y el acompañamiento integral de personas afectadas por las adicciones y por la vulnerabilidad social.",
+      "body2": "Acompañamos a personas con dificultades relacionadas con las drogas, el alcohol, la ludopatía y otras adicciones, y también a sus familias. Según la documentación publicada por la asociación, este trabajo se realiza de forma gratuita.",
+      "body3": "La fe cristiana forma parte de nuestra identidad y de la manera en que entendemos la dignidad de cada persona. Nadie necesita compartirla para ser acogido aquí.",
+      "facts": {
+        "founded": "Nacida en Perú",
+        "foundedValue": "30 de abril de 1986",
+        "spain": "En Madrid desde",
+        "spainValue": "2023",
+        "cost": "Servicios",
+        "costValue": "Gratuitos",
+        "registry": "Registro Nacional",
+        "registryValue": "Nº 626775"
+      }
+    },
+    "programs": {
+      "label": "Nuestra labor",
+      "title": "Cerca, en cada etapa del proceso.",
+      "lead": "Un hogar donde vivir, alguien con quien hablar, una familia a la que sostener y una presencia constante en los lugares donde nadie más llega."
+    },
+    "impact": {
+      "label": "Resultados de 2025",
+      "title": "Lo que dicen nuestras memorias.",
+      "lead": "Estas cifras proceden de la Memoria Anual de Actividades 2025, firmada por la dirección de la asociación. Corresponden únicamente a ese ejercicio.",
+      "note": "No sumamos estas categorías entre sí: una misma persona puede haber participado en más de un programa a lo largo del año."
+    },
+    "stories": {
+      "label": "Historias",
+      "title": "Voces que ya han recorrido este camino.",
+      "lead": "Testimonios, entrevistas y material audiovisual publicados por la propia organización. Nada de lo que aparece aquí está recreado ni guionizado."
+    },
+    "history": {
+      "label": "Desde 1986",
+      "title": "Empezó en Barrios Altos, en Lima.",
+      "body1": "El 30 de abril de 1986, Hogares Victoria —entonces conocida como Centro Victoria— abrió sus puertas en Barrios Altos, en el Cercado de Lima, para acompañar a jóvenes afectados por el alcohol y las drogas.",
+      "body2": "Casi cuarenta años después, aquel trabajo continúa en varios países y, desde 2023, también en Madrid. Luis y Vangie Salazar fundaron Hogares Victoria Internacional; el proyecto en España está dirigido por el pastor Alfredo Pedraza Soriano."
+    },
+    "donate": {
+      "label": "Colabora",
+      "title": "Tu ayuda puede formar parte de una nueva historia.",
+      "body": "Con tu colaboración podemos seguir ofreciendo acogida, alimento, acompañamiento y oportunidades a personas que necesitan comenzar de nuevo.",
+      "transparency": "En 2025 la asociación no recibió ninguna subvención pública. Todo lo que sostiene esta labor procede de socios, donantes y de la venta de artesanía elaborada en los talleres."
+    },
+    "closing": {
+      "title": "La esperanza también se construye entre todos.",
+      "body": "Tanto si buscas ayuda como si quieres ofrecerla, aquí empieza la conversación."
+    }
+  },
+  "programs": {
+    "acogida": {
+      "name": "Acogida residencial",
+      "short": "Un lugar donde vivir mientras se reconstruye todo lo demás.",
+      "intro": "El eje central de nuestra actividad es el programa de acogida residencial, en el hogar de Quijorna. Allí conviven personas que atraviesan un proceso de deshabituación, con acompañamiento diario.",
+      "whatLabel": "Qué incluye",
+      "what": [
+        "Alojamiento y manutención.",
+        "Acompañamiento individualizado.",
+        "Establecimiento de rutinas estructuradas.",
+        "Trabajo en hábitos saludables y responsabilidad personal.",
+        "Apoyo emocional y espiritual.",
+        "Preparación para la reinserción social."
+      ],
+      "whoLabel": "A quién se dirige",
+      "who": "A personas adultas que afrontan problemas de adicción y aceptan participar en un modelo basado en la convivencia, la corresponsabilidad y el acompañamiento cercano.",
+      "note": "La disponibilidad de plazas es limitada y varía. Antes de nada, lo mejor es hablar con nosotros."
+    },
+    "acompanamiento": {
+      "name": "Acompañamiento personal",
+      "short": "Alguien con quien hablar, dentro y fuera del hogar.",
+      "intro": "Además del programa residencial, la asociación ofrece orientación y seguimiento a lo largo del proceso. En la documentación de 2025 estas actuaciones aparecen como sesiones individuales y grupales, y como un programa ambulatorio.",
+      "whatLabel": "Qué incluye",
+      "what": [
+        "Sesiones individuales de orientación y seguimiento.",
+        "Sesiones grupales de apoyo mutuo.",
+        "Acompañamiento espiritual, para quien lo desee.",
+        "Seguimiento continuo del proceso de cada persona."
+      ],
+      "whoLabel": "A quién se dirige",
+      "who": "A personas que están en proceso de deshabituación, residan o no en el hogar, y a quienes acaban de salir de él.",
+      "note": "Este acompañamiento es social, educativo y espiritual. No sustituye al tratamiento sanitario ni a la atención psicológica o médica profesional. Cuando una situación lo requiere, derivamos a recursos especializados."
+    },
+    "familias": {
+      "name": "Apoyo a las familias",
+      "short": "La adicción nunca afecta a una sola persona.",
+      "intro": "Las familias son parte del proceso, y también lo sufren. Por eso la asociación mantiene sesiones específicas de acompañamiento familiar: 82 a lo largo de 2025.",
+      "whatLabel": "Qué incluye",
+      "what": [
+        "Sesiones de apoyo y orientación a familiares.",
+        "Espacios para entender qué está ocurriendo y qué se puede esperar.",
+        "Acompañamiento en la restauración de los vínculos.",
+        "Participación de la familia en el proceso, cuando es posible y conveniente."
+      ],
+      "whoLabel": "A quién se dirige",
+      "who": "A madres, padres, parejas, hijos, hermanos y personas cercanas a alguien que atraviesa una adicción.",
+      "note": ""
+    },
+    "calle": {
+      "name": "Intervención y prevención en calle",
+      "short": "Ir donde está la gente, antes de que alguien pida ayuda.",
+      "intro": "Parte de nuestro trabajo ocurre fuera del hogar: en parques, estaciones y asentamientos donde hay consumo activo. Allí el objetivo no es convencer a nadie, sino estar, escuchar y dejar una puerta abierta.",
+      "whatLabel": "Qué hacemos allí",
+      "what": [
+        "Acercamiento y escucha, sin condiciones.",
+        "Orientación sobre los recursos disponibles.",
+        "Prevención y sensibilización.",
+        "Entrega de alimento, agua y productos de higiene.",
+        "Derivación a recursos especializados cuando procede."
+      ],
+      "whoLabel": "Dónde hemos intervenido",
+      "who": "Las memorias de 2024 y 2025 documentan actuaciones en varias zonas de la Comunidad de Madrid.",
+      "note": "Estas ubicaciones corresponden a intervenciones documentadas en las memorias. No son puntos de atención permanente ni rutas fijas: para pedir ayuda, lo más directo es el teléfono o el correo."
+    },
+    "formacion": {
+      "name": "Formación y desarrollo personal",
+      "short": "Recuperar una habilidad también es recuperar una vida.",
+      "intro": "Los talleres forman parte del día a día del hogar. Dan estructura al tiempo, devuelven confianza y, en algunos casos, abren una puerta laboral.",
+      "whatLabel": "Talleres documentados",
+      "what": [
+        "Prevención de recaídas.",
+        "Autoestima y gestión emocional.",
+        "Habilidades sociales.",
+        "Música.",
+        "Hostelería.",
+        "Artesanía y manualidades.",
+        "Clases de inglés básico.",
+        "Dinámicas grupales formativas."
+      ],
+      "whoLabel": "A quién se dirige",
+      "who": "A las personas que participan en los programas de la asociación.",
+      "note": "Esta es la relación de talleres recogida en las memorias de 2024 y 2025. La oferta concreta depende del periodo y de los recursos disponibles en cada momento."
+    },
+    "reinsercion": {
+      "name": "Reinserción social",
+      "short": "Volver a la vida de todos los días.",
+      "intro": "La reinserción no se reduce a encontrar un empleo. Tiene que ver con la autonomía, con sostener una rutina, con recuperar relaciones y con volver a sentirse parte de un lugar.",
+      "whatLabel": "Hacia dónde trabajamos",
+      "what": [
+        "Autonomía personal y gestión de la vida cotidiana.",
+        "Convivencia y responsabilidad compartida.",
+        "Recuperación de vínculos familiares y sociales.",
+        "Participación en actividades comunitarias.",
+        "Preparación para la vida fuera del hogar."
+      ],
+      "whoLabel": "A quién se dirige",
+      "who": "A las personas que avanzan en su proceso y empiezan a preparar la salida del programa residencial.",
+      "note": ""
+    },
+    "basicas": {
+      "name": "Cobertura de necesidades básicas",
+      "short": "Lo imprescindible, cuando no hay nada.",
+      "intro": "Antes de cualquier proceso hay necesidades que no esperan. La memoria de 2025 recoge el apoyo material que la asociación presta de forma continuada.",
+      "whatLabel": "Qué cubrimos",
+      "what": [
+        "Alimentación.",
+        "Productos de higiene.",
+        "Transporte para gestiones médicas y administrativas."
+      ],
+      "whoLabel": "A quién se dirige",
+      "who": "A las personas acogidas en el hogar y a quienes atendemos en los dispositivos de calle.",
+      "note": "Buena parte de estos recursos procede de donaciones de particulares y de excedentes de mercados."
+    }
+  },
+  "work": {
+    "hero": {
+      "label": "Nuestra labor",
+      "title": "Siete maneras de acompañar.",
+      "lead": "Nuestro trabajo no es un programa único: es una secuencia de apoyos que se adaptan al momento de cada persona. Esto es lo que recogen nuestras memorias de actividades."
+    },
+    "indexLabel": "Programas",
+    "areasTitle": "Zonas de Madrid con intervención documentada",
+    "ctaTitle": "¿Crees que podemos ayudarte?",
+    "ctaBody": "No hace falta que tengas nada decidido. Una llamada o un correo son suficientes para empezar a hablar."
+  },
+  "help": {
+    "hero": {
+      "label": "Necesito ayuda",
+      "title": "No tienes que afrontarlo solo.",
+      "lead": "Si estás pasando por una adicción, o si acompañas a alguien que la vive, puedes hablar con nosotros. No necesitas tener nada preparado ni decidido."
+    },
+    "callTitle": "Habla con nosotros",
+    "callBody": "La forma más directa de contactar es el teléfono. Si prefieres escribir, también puedes hacerlo por correo o con el formulario de esta página.",
+    "whatTitle": "Qué es Hogares Victoria",
+    "whatBody": "Somos una asociación sin ánimo de lucro con un hogar de acogida en Quijorna (Madrid) y una sede administrativa en la ciudad. Acompañamos a personas afectadas por las adicciones y por la vulnerabilidad social. Según la documentación publicada por la asociación, nuestros servicios son gratuitos.",
+    "offerTitle": "Qué te podemos ofrecer",
+    "offer": [
+      "Escucharte, sin juzgarte y sin condiciones previas.",
+      "Explicarte en qué consiste nuestro programa de acogida residencial.",
+      "Acompañarte con sesiones individuales y grupales.",
+      "Orientar también a tu familia.",
+      "Cubrir necesidades básicas como alimentación o higiene.",
+      "Derivarte a un recurso más especializado si es lo que necesitas."
+    ],
+    "limitsTitle": "Qué no somos",
+    "limitsBody": "No somos un centro sanitario ni un servicio de urgencias. No realizamos desintoxicación médica ni tratamiento psiquiátrico. Cuando una situación requiere atención profesional especializada, derivamos: en 2025 acompañamos a 22 personas hasta la Asociación Betel por este motivo.",
+    "emergencyTitle": "Si la situación es urgente",
+    "emergencyBody": "Ante una emergencia médica o un riesgo inmediato para la vida, llama al 112. Es el número de emergencias en toda España y atiende las 24 horas.",
+    "prepareTitle": "Qué nos ayuda saber",
+    "prepareBody": "Para poder orientarte mejor, nos sirve conocer tres cosas. No hace falta que des detalles médicos ni que cuentes más de lo que quieras.",
+    "prepare": [
+      "Si escribes para ti o para otra persona.",
+      "En qué zona te encuentras.",
+      "Un teléfono o un correo donde podamos responderte."
+    ],
+    "privacyNote": "No nos envíes informes médicos ni datos de salud a través de este formulario. Cuando haya que hablar de eso, lo haremos directamente contigo.",
+    "processTitle": "Qué ocurre después",
+    "processBody": "Nos pondremos en contacto contigo para hablar con calma de tu situación y explicarte cómo funciona el programa. El acceso a una plaza en el hogar depende de la disponibilidad en cada momento y se valora caso por caso.",
+    "formTitle": "Escríbenos"
+  },
+  "about": {
+    "hero": {
+      "label": "Quiénes somos",
+      "title": "Una asociación que nació de la experiencia.",
+      "lead": "Hogares Victoria comenzó en 1986 en un barrio de Lima y hoy continúa en Madrid. Entre medias hay cuatro décadas de personas que decidieron acompañar a otras por donde ellas mismas habían pasado."
+    },
+    "identity": {
+      "label": "Identidad",
+      "title": "Qué somos",
+      "body1": "La Asociación Hogares Victoria de España es una entidad civil sin ánimo de lucro, de inspiración cristiana, inscrita en el Registro Nacional de Asociaciones del Ministerio del Interior con el número 626775.",
+      "body2": "Nos dedicamos a la atención residencial y al acompañamiento integral de personas con problemas de adicciones y en situación de vulnerabilidad social. Nuestra labor se dirige a la orientación, la prevención, la deshabituación y la reinserción, y se presta de forma gratuita."
+    },
+    "origin": {
+      "label": "Origen",
+      "title": "Barrios Altos, 1986.",
+      "body1": "El 30 de abril de 1986, Hogares Victoria —entonces llamada Centro Victoria— inició su labor en Barrios Altos, Cercado de Lima. Su propósito era ofrecer acompañamiento y oportunidades de restauración a personas, sobre todo jóvenes, afectadas por el alcohol y las drogas.",
+      "body2": "Con los años, el movimiento se extendió a distintos países de Sudamérica, Norteamérica y Centroamérica. La web anterior de la asociación afirmaba la existencia de más de cien hogares en el mundo; esa cifra está pendiente de confirmación y por eso no la presentamos como un dato vigente."
+    },
+    "foundersTitle": "Fundadores internacionales",
+    "foundersBody": "Luis y Vangie Salazar fundaron Hogares Victoria Internacional, la organización de la que forma parte el proyecto español.",
+    "spain": {
+      "label": "España",
+      "title": "Madrid, desde 2023.",
+      "body1": "La memoria económica de 2025 sitúa en torno a dos años y medio la actividad de la asociación en Madrid durante ese ejercicio. El proyecto español articula acogida residencial, prevención, intervención comunitaria y reinserción.",
+      "body2": "Hoy la asociación mantiene dos sedes: el hogar de acogida en Quijorna, donde se ejecuta el programa de intervención, y una sede administrativa en Madrid destinada a gestión, coordinación y atención externa."
+    },
+    "missionLabel": "Misión",
+    "mission": "Acompañar a quienes luchan contra las adicciones con apoyo integral, amor y esperanza en Cristo. Mediante la consejería, el discipulado y la restauración espiritual, buscamos que cada persona encuentre un nuevo propósito y se convierta en agente de cambio para su familia y su comunidad.",
+    "visionLabel": "Visión",
+    "vision": "Ser un hogar de acogida donde cada persona encuentre el apoyo, la esperanza y el amor de Cristo necesarios para restaurar su vida y comenzar de nuevo.",
+    "expectationLabel": "Hacia dónde queremos ir",
+    "expectation": "Ampliar la red de hogares de acogida en España y en Europa para llegar a más personas en situación de vulnerabilidad, brindando acompañamiento físico y espiritual y enseñando valores que favorezcan la reintegración familiar y social.",
+    "expectationNote": "Es una expectativa de futuro, no una red ya existente en Europa.",
+    "valuesLabel": "Valores",
+    "valuesTitle": "Lo que sostiene nuestro trabajo",
+    "values": [
+      {
+        "name": "Dignidad",
+        "body": "Nadie se reduce a su adicción. Cada persona que entra por la puerta llega con una historia completa."
+      },
+      {
+        "name": "Experiencia compartida",
+        "body": "Quienes acompañan conocen el camino desde dentro. Eso cambia la manera de escuchar."
+      },
+      {
+        "name": "Convivencia",
+        "body": "El hogar no es un servicio: es una casa con rutinas, comidas compartidas y responsabilidades repartidas."
+      },
+      {
+        "name": "Corresponsabilidad",
+        "body": "Acompañamos, no sustituimos. Cada persona sostiene su propio proceso."
+      },
+      {
+        "name": "Gratuidad",
+        "body": "La capacidad económica no determina el acceso a la ayuda."
+      },
+      {
+        "name": "Esperanza",
+        "body": "La fe cristiana sostiene nuestra labor. No es un requisito para ser acogido."
+      }
+    ],
+    "faithLabel": "Nuestra fe",
+    "faithTitle": "De dónde viene esta manera de mirar",
+    "faithBody": "Hogares Victoria es una organización de inspiración cristiana. Esa fe explica por qué creemos que ninguna vida está perdida y por qué la puerta sigue abierta después de una recaída. En nuestra identidad pesan especialmente dos referencias bíblicas que la organización utiliza: Salmos 72:12-15 y 1 Samuel 2:8, dos textos sobre levantar al que no puede levantarse solo.",
+    "faithNote": "No reproducimos aquí el texto literal de estos pasajes: la redacción depende de cada traducción y de sus condiciones de uso.",
+    "timelineLabel": "Cronología",
+    "timelineTitle": "Hitos documentados",
+    "recognitionsLabel": "Reconocimientos",
+    "recognitionsTitle": "Lo que otros han reconocido",
+    "teamLabel": "Equipo",
+    "teamTitle": "Responsables",
+    "teamBody": "La asociación está dirigida por el pastor Alfredo Pedraza Soriano. En los documentos institucionales de 2025 consta también Silvie Yvonne Espinel Bello como secretaria.",
+    "teamNote": "Los cargos y las fotografías del equipo quedan pendientes de confirmación y autorización expresa por parte de las personas implicadas.",
+    "ctaTitle": "Así se traduce todo esto en el día a día.",
+    "ctaBody": "La parte concreta de nuestro trabajo —el hogar, las sesiones, la calle, los talleres— está en la página de nuestra labor."
+  },
+  "timeline": {
+    "origen": {
+      "title": "Nace Centro Victoria en Lima",
+      "body": "El 30 de abril de 1986, en Barrios Altos, Cercado de Lima, comienza la labor que más tarde se conocería como Hogares Victoria."
+    },
+    "expansion": {
+      "title": "El movimiento se extiende",
+      "body": "A lo largo de casi cuatro décadas, la organización se extiende a distintos países de Sudamérica, Norteamérica y parte de Centroamérica."
+    },
+    "espana": {
+      "title": "Hogares Victoria llega a Madrid",
+      "body": "Arranca la actividad en España, con sede administrativa en la Avenida de Badajoz y primeras intervenciones en zonas de consumo de la ciudad."
+    },
+    "quijorna": {
+      "title": "Se abre el hogar de acogida de Quijorna",
+      "body": "La memoria económica de 2024 registra tres mensualidades de alquiler del hogar de Calle Real 31, lo que sitúa su apertura en el último tramo del año."
+    },
+    "consolidacion": {
+      "title": "Un ejercicio de consolidación",
+      "body": "En 2025 el recurso residencial funciona de forma continua durante todo el año: 38 personas atendidas en los hogares y más de 420 sesiones individuales y grupales."
+    }
+  },
+  "recognitions": {
+    "congreso": {
+      "title": "Congreso de la República del Perú",
+      "body": "El Congreso reconoció a 23 pastores por más de treinta años de labor misionera y obra social. La documentación disponible recoge el acto, pero no su fecha exacta."
+    },
+    "chorrillos": {
+      "title": "Ayuntamiento de Chorrillos",
+      "body": "La web anterior de la asociación recogía un reconocimiento del Ayuntamiento de Chorrillos al pastor Alfredo Pedraza. No consta la fecha del acto."
+    },
+    "note": "Presentamos estos reconocimientos tal y como aparecen en la documentación de la organización, sin atribuirles un alcance mayor del que tienen."
+  },
+  "stories": {
+    "hero": {
+      "label": "Historias",
+      "title": "Lo que cuentan quienes lo han vivido.",
+      "lead": "Material real, publicado por la propia organización en su canal oficial. No hay testimonios recreados ni citas atribuidas a personas que no las hayan dado."
+    },
+    "featuredLabel": "Destacado",
+    "allLabel": "Todo el material",
+    "noteTitle": "Sobre este material",
+    "noteBody": "Los cinco vídeos proceden del canal «IGLESIA VICTORIA, CRISTO EN EL CENTRO» y estaban publicados o enlazados en la web anterior de la asociación. Hemos verificado su título y su autoría antes de incorporarlos.",
+    "privacyTitle": "Reproducción y privacidad",
+    "privacyBody": "Los vídeos no se cargan hasta que decides reproducirlos. Al hacerlo, tu navegador se conecta con YouTube y se aplican las condiciones y las cookies de ese servicio.",
+    "items": {
+      "testimonio-alfredo-pedraza": {
+        "title": "El testimonio del pastor Alfredo Pedraza",
+        "description": "El relato en primera persona del responsable de Hogares Victoria en España: la adicción, la pérdida y el camino de vuelta. Es el origen de todo lo que hoy hace la asociación en Madrid."
+      },
+      "tbn-espana": {
+        "title": "Entrevista en TBN España",
+        "description": "Marzo de 2023. La llegada del proyecto a España contada en un plató de televisión, pocos meses después de empezar a trabajar en Madrid."
+      },
+      "plaza-benavente": {
+        "title": "Testimonio en Plaza Benavente",
+        "description": "Grabado en uno de los puntos de intervención en calle del centro de Madrid, durante una salida del equipo."
+      },
+      "presentacion-internacional": {
+        "title": "Presentación de Hogares Victoria Internacional",
+        "description": "Una panorámica de la organización internacional de la que forma parte el proyecto español."
+      },
+      "trailer-espana": {
+        "title": "Tráiler de Hogares Victoria España",
+        "description": "Un resumen breve del trabajo del equipo en Madrid: el hogar, la calle y la comunidad."
+      }
+    },
+    "ctaTitle": "¿Y si la siguiente historia fuera la tuya?",
+    "ctaBody": "Si estás pasando por una adicción, o acompañas a alguien que la vive, podemos hablar."
+  },
+  "impact": {
+    "hero": {
+      "label": "Impacto y transparencia",
+      "title": "Las cuentas claras, el trabajo a la vista.",
+      "lead": "Publicamos nuestras memorias de actividades y nuestras memorias económicas completas. Aquí están resumidas; los documentos originales se pueden descargar íntegros."
+    },
+    "resultsLabel": "Resultados",
+    "resultsTitle": "Resultados de {year}",
+    "yearSelector": "Ejercicio",
+    "activityLabel": "Actividad",
+    "peopleLabel": "Personas",
+    "note2025": "Cifras tomadas de la Memoria Anual de Actividades 2025. Corresponden únicamente a ese ejercicio y no son acumulativas.",
+    "note2024": "Cifras tomadas de la Memoria de Actividades 2024.",
+    "discrepancyTitle": "Una discrepancia que no ocultamos",
+    "discrepancyBody": "La memoria de 2024 afirma que se realizaron «más de 280 sesiones individuales y grupales», pero su propio desglose indica 260 grupales y 60 individuales, que suman 320. No publicamos una cifra reconciliada hasta que la asociación confirme cuál es la correcta.",
+    "noAggregationTitle": "Por qué no sumamos estas cifras",
+    "noAggregationBody": "Las personas atendidas en los hogares, las que participan en el programa ambulatorio y las derivadas a otros recursos pueden ser en parte las mismas. Sumarlas produciría un total de beneficiarios que no es real.",
+    "comparisonLabel": "Comparación",
+    "comparisonTitle": "2024 y 2025, lado a lado",
+    "comparisonBody": "Dos ejercicios consecutivos, cada uno con sus propias cifras. El segundo año completo de actividad del hogar de Quijorna explica buena parte de la diferencia.",
+    "financeLabel": "Economía",
+    "financeTitle": "De dónde viene y a dónde va cada euro",
+    "financeBody": "En {year} la asociación ingresó {income} y gastó {expenses}, con un superávit de {surplus}. No recibió ninguna subvención pública.",
+    "totalIncome": "Total de ingresos",
+    "totalExpenses": "Total de gastos",
+    "surplus": "Superávit",
+    "shareOfTotal": "{percent} del total",
+    "fundingTitle": "Cómo se financia la asociación",
+    "fundingBody": "La principal fuente de financiación es la solidaridad privada: donaciones, cuotas de socios y la venta de llaveros y artesanía elaborados en los propios talleres. A esto se suman transferencias de la casa matriz de Perú. En los dos ejercicios publicados no consta ninguna subvención pública.",
+    "docsLabel": "Documentos",
+    "docsTitle": "Memorias oficiales",
+    "docsBody": "Estos son los documentos completos, tal y como fueron firmados por la dirección de la asociación.",
+    "docTypes": {
+      "activities": "Memoria de Actividades",
+      "financial": "Memoria Económica"
+    },
+    "ctaTitle": "Puedes sostener esto.",
+    "ctaBody": "Cada euro que entra aparece en la memoria del año siguiente."
+  },
+  "metrics": {
+    "peopleInHomes": {
+      "label": "Personas atendidas en los hogares",
+      "note": "Para superar la adicción a drogas y alcohol."
+    },
+    "outpatient": {
+      "label": "Participantes en el programa ambulatorio",
+      "note": "Programa de atención sin internamiento."
+    },
+    "referrals": {
+      "label": "Personas derivadas a Asociación Betel",
+      "note": "Derivaciones a un recurso con mayor especialización en el tratamiento."
+    },
+    "therapySessions": {
+      "label": "Sesiones individuales y grupales",
+      "note": "Desglose publicado: {group} grupales y {individual} individuales."
+    },
+    "familySessions": {
+      "label": "Sesiones de apoyo familiar",
+      "note": "Acompañamiento a familiares de personas con adicciones."
+    },
+    "awarenessCampaigns": {
+      "label": "Campañas de sensibilización",
+      "note": "Sobre los riesgos del alcohol, las drogas y la ludopatía."
+    },
+    "trainingCourses": {
+      "label": "Cursos de formación",
+      "note": "Con énfasis en música, hostelería y manualidades."
+    },
+    "completedProcess": {
+      "label": "Personas que completaron su proceso de deshabituación",
+      "note": "Según la redacción de la memoria del ejercicio."
+    }
+  },
+  "give": {
+    "hero": {
+      "label": "Colabora y dona",
+      "title": "Sostener un hogar cuesta menos de lo que parece.",
+      "lead": "En 2025 el conjunto de la actividad de la asociación en Madrid se sostuvo con 37.730,96 €. Sin subvenciones públicas: solo con socios, donantes y lo que se fabrica en los talleres."
+    },
+    "waysLabel": "Formas de ayudar",
+    "waysTitle": "Cuatro maneras de estar dentro",
+    "ways": {
+      "paypal": {
+        "name": "Donación por PayPal",
+        "body": "La vía más rápida. Te lleva al enlace de donación oficial de la asociación."
+      },
+      "transfer": {
+        "name": "Transferencia bancaria",
+        "body": "Para donativos puntuales o periódicos ordenados desde tu propio banco."
+      },
+      "volunteer": {
+        "name": "Voluntariado",
+        "body": "Tiempo, oficio y presencia. A veces es lo que más falta."
+      },
+      "partner": {
+        "name": "Colaboración institucional",
+        "body": "Empresas, entidades y administraciones que quieran conocer el proyecto."
+      }
+    },
+    "paypalTitle": "Donar por PayPal",
+    "paypalBody": "El botón abre el enlace de donación publicado por la asociación. El pago se realiza íntegramente en PayPal: esta web no recoge ni almacena ningún dato de pago.",
+    "paypalNote": "Antes de la publicación definitiva debe comprobarse que este enlace sigue siendo el oficial de la asociación.",
+    "transferTitle": "Transferencia bancaria",
+    "transferBody": "Si prefieres ordenar la transferencia desde tu banco, estos son los datos publicados por la asociación.",
+    "bankLabel": "Banco",
+    "ibanLabel": "IBAN",
+    "bicLabel": "BIC / SWIFT",
+    "holderLabel": "Titular",
+    "transferNote": "Si quieres que podamos agradecértelo o emitir un justificante, indica tu nombre en el concepto y escríbenos a {email}.",
+    "recurringTitle": "¿Y una aportación periódica?",
+    "recurringBody": "Puedes ordenar una transferencia periódica desde tu propio banco con los datos de arriba. No tenemos activada una suscripción automática: preferimos no ofrecer algo que todavía no podemos garantizar.",
+    "trustLabel": "Confianza",
+    "trustTitle": "A dónde va tu donativo",
+    "trustBody": "La mayor parte del presupuesto sostiene lo esencial: el alquiler del hogar y de la sede, los suministros, la alimentación, el transporte para gestiones médicas y administrativas, y los talleres. El desglose completo está en la memoria económica.",
+    "trustFacts": {
+      "grants": "Subvenciones públicas recibidas en 2025",
+      "grantsValue": "0 €",
+      "budget": "Gasto total del ejercicio 2025",
+      "budgetValue": "37.730,96 €",
+      "home": "Alquiler del hogar de acogida en 2025",
+      "homeValue": "15.600 €"
+    },
+    "taxTitle": "Desgravación fiscal",
+    "taxBody": "Las deducciones por donativos dependen del régimen fiscal aplicable a cada entidad. Todavía no podemos confirmar cuál es el de la asociación, así que preferimos no afirmar nada al respecto. Escríbenos y lo consultamos contigo.",
+    "otherTitle": "Otras formas de ayudar",
+    "otherBody": "Si quieres aportar alimentos, material o servicios, escríbenos antes: así nos aseguramos de que lo que llega es realmente lo que hace falta en ese momento."
+  },
+  "volunteer": {
+    "hero": {
+      "label": "Voluntariado",
+      "title": "Tu tiempo también puede cambiar vidas.",
+      "lead": "Buena parte de lo que ocurre en Hogares Victoria lo sostienen personas voluntarias. La memoria de 2025 lo dice con todas las letras: el voluntariado es un elemento clave en la sostenibilidad del proyecto."
+    },
+    "whatTitle": "Qué significa participar",
+    "whatBody": "El voluntariado aquí es muy concreto: acompañar una salida a la calle, echar una mano en un taller, ayudar con una gestión, conducir la furgoneta, preparar una comida, estar un rato. No hace falta ser un especialista. Hace falta ser constante y respetuoso.",
+    "whyTitle": "Por qué importa",
+    "whyBody": "Para alguien que lleva meses sin que nadie le pregunte cómo está, una presencia estable cambia el ánimo de una semana entera. Y para el equipo, cada par de manos amplía lo que se puede hacer sin aumentar el presupuesto.",
+    "expectTitle": "Qué puedes esperar de nosotros",
+    "expect": [
+      "Te contestaremos y hablaremos contigo antes de nada.",
+      "Te explicaremos en qué consiste cada actividad y qué se espera de ti.",
+      "No te pondremos en una situación para la que no estés preparado.",
+      "Respetaremos tu disponibilidad real."
+    ],
+    "formTitle": "Cuéntanos quién eres",
+    "formBody": "Rellena el formulario y te escribiremos. Si prefieres llamar, el teléfono está más abajo.",
+    "areasNote": "Las áreas concretas de voluntariado se acuerdan en la conversación posterior, en función de las necesidades de cada momento."
+  },
+  "contact": {
+    "hero": {
+      "label": "Contacto",
+      "title": "Hablemos.",
+      "lead": "Para pedir ayuda, ofrecerla o preguntar cualquier cosa sobre la asociación."
+    },
+    "directTitle": "Contacto directo",
+    "formTitle": "Escríbenos",
+    "formBody": "Te responderemos al correo o al teléfono que nos indiques.",
+    "locationsTitle": "Dónde estamos",
+    "homeLabel": "Hogar de acogida",
+    "officeLabel": "Sede administrativa",
+    "locationsNote": "Estas son las direcciones que constan en la documentación de la asociación. Antes de acudir en persona, llama o escribe: no todas las sedes atienden visitas sin cita previa.",
+    "legalTitle": "Datos identificativos",
+    "legalName": "Denominación",
+    "legalRegistry": "Registro Nacional de Asociaciones",
+    "legalRegistryValue": "Sección 1.ª, número 626775",
+    "legalNif": "NIF",
+    "legalDirector": "Responsable",
+    "helpBannerTitle": "Si lo que buscas es ayuda para ti o para alguien cercano",
+    "helpBannerBody": "Tenemos una página pensada exactamente para eso, con todo lo que conviene saber antes de llamar."
+  },
+  "forms": {
+    "name": "Nombre y apellidos",
+    "firstName": "Nombre",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "reason": "Motivo de contacto",
+    "message": "Mensaje",
+    "messagePlaceholderContact": "Cuéntanos brevemente en qué podemos ayudarte.",
+    "messagePlaceholderVolunteer": "Cuéntanos qué te gustaría hacer y de cuánto tiempo dispones.",
+    "messagePlaceholderHelp": "Cuéntanos lo que quieras contarnos. No hacen falta detalles médicos.",
+    "availability": "Disponibilidad",
+    "availabilityPlaceholder": "Por ejemplo: sábados por la mañana",
+    "city": "Localidad",
+    "forWhom": "¿Para quién escribes?",
+    "forWhomOptions": {
+      "self": "Para mí",
+      "other": "Para otra persona",
+      "professional": "Soy profesional o trabajo en otra entidad"
+    },
+    "reasons": {
+      "info": "Necesito información",
+      "collaborate": "Quiero colaborar",
+      "donation": "Donaciones",
+      "institutional": "Contacto institucional",
+      "other": "Otra consulta"
+    },
+    "consent": "He leído y acepto la <privacy>política de privacidad</privacy>.",
+    "consentHint": "Usaremos tus datos únicamente para responderte.",
+    "submit": "Enviar mensaje",
+    "submitVolunteer": "Enviar solicitud",
+    "sending": "Enviando…",
+    "successTitle": "Mensaje enviado",
+    "successBody": "Gracias por escribirnos. Te responderemos lo antes posible al contacto que nos has indicado.",
+    "errorTitle": "No hemos podido enviar el mensaje",
+    "errorBody": "Ha ocurrido un problema al enviar el formulario. Puedes volver a intentarlo o escribirnos directamente a {email}.",
+    "notConfiguredTitle": "El formulario todavía no está activo",
+    "notConfiguredBody": "El envío de correo aún no está configurado en el servidor. Mientras tanto, escríbenos a {email} o llámanos al {phone}.",
+    "rateLimitTitle": "Demasiados envíos",
+    "rateLimitBody": "Hemos recibido varios mensajes desde tu conexión en poco tiempo. Inténtalo de nuevo dentro de unos minutos.",
+    "errors": {
+      "nameRequired": "Escribe tu nombre.",
+      "emailRequired": "Escribe tu correo electrónico.",
+      "emailInvalid": "Ese correo no parece válido. Revísalo, por favor.",
+      "phoneInvalid": "Ese teléfono no parece válido.",
+      "phoneRequired": "Escribe un teléfono de contacto.",
+      "contactRequired": "Necesitamos al menos un teléfono o un correo para poder responderte.",
+      "messageRequired": "Escribe tu mensaje.",
+      "messageShort": "Cuéntanos un poco más (al menos 10 caracteres).",
+      "reasonRequired": "Elige un motivo de contacto.",
+      "consentRequired": "Necesitamos tu consentimiento para poder responderte.",
+      "summaryTitle": "Revisa estos campos antes de enviar"
+    }
+  },
+  "video": {
+    "play": "Reproducir «{title}»",
+    "playHint": "Al reproducirlo se cargará YouTube",
+    "openOnYouTube": "Ver en YouTube",
+    "channel": "Canal",
+    "dateUnknown": "Fecha no documentada",
+    "loading": "Cargando el reproductor…"
+  },
+  "footer": {
+    "tagline": "Asociación sin ánimo de lucro dedicada a la acogida, la orientación y el acompañamiento de personas afectadas por las adicciones y la vulnerabilidad social.",
+    "navTitle": "Navegación",
+    "helpTitle": "Ayuda y contacto",
+    "giveTitle": "Colabora",
+    "legalTitle": "Información legal",
+    "transparency": "Transparencia",
+    "legalNotice": "Aviso legal",
+    "privacy": "Política de privacidad",
+    "cookies": "Política de cookies",
+    "rights": "© {year} Asociación Hogares Victoria de España. Todos los derechos reservados.",
+    "registry": "Registro Nacional de Asociaciones, Sección 1.ª, nº 626775 · NIF G56681133",
+    "credit": "Fotografías cedidas por la Asociación Hogares Victoria de España."
+  },
+  "legal": {
+    "reviewNoticeTitle": "Texto pendiente de revisión jurídica",
+    "reviewNoticeBody": "Este documento recoge una estructura profesional redactada a partir de la información disponible, pero todavía no ha sido revisado ni aprobado por un asesor jurídico. No debe considerarse un texto legal definitivo.",
+    "lastUpdated": "Última actualización",
+    "notice": {
+      "title": "Aviso legal",
+      "sections": [
+        {
+          "heading": "Datos identificativos",
+          "body": "En cumplimiento del deber de información recogido en la Ley 34/2002, de Servicios de la Sociedad de la Información y de Comercio Electrónico, se hacen constar los siguientes datos: titular, Asociación Hogares Victoria de España; NIF G56681133; inscrita en el Registro Nacional de Asociaciones del Ministerio del Interior, Sección 1.ª, número 626775; domicilio en Calle Real 31, Quijorna (Madrid); teléfono +34 647 672 300; correo electrónico info@hogaresvictoria.es."
+        },
+        {
+          "heading": "Objeto",
+          "body": "Este sitio web tiene una finalidad informativa sobre la actividad de la asociación y permite ponerse en contacto con ella, solicitar información y realizar donativos a través de proveedores externos."
+        },
+        {
+          "heading": "Condiciones de uso",
+          "body": "El acceso a este sitio implica la aceptación de estas condiciones. La persona usuaria se compromete a hacer un uso adecuado de los contenidos y a no emplearlos con fines ilícitos o lesivos para terceros."
+        },
+        {
+          "heading": "Propiedad intelectual",
+          "body": "Los textos, el logotipo y las fotografías de este sitio pertenecen a la Asociación Hogares Victoria de España o se utilizan con su autorización. No está permitida su reproducción sin consentimiento previo."
+        },
+        {
+          "heading": "Enlaces externos",
+          "body": "Este sitio contiene enlaces a servicios de terceros, como PayPal y YouTube. La asociación no se responsabiliza del contenido ni de las políticas de privacidad de esos servicios."
+        },
+        {
+          "heading": "Responsabilidad sobre la información",
+          "body": "La información publicada sobre programas, actividades y resultados procede de las memorias oficiales de la asociación. La asociación no garantiza la disponibilidad permanente de todos los servicios descritos, que depende de los recursos existentes en cada momento."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "sections": [
+        {
+          "heading": "Responsable del tratamiento",
+          "body": "Asociación Hogares Victoria de España, NIF G56681133, con domicilio en Calle Real 31, Quijorna (Madrid). Correo electrónico de contacto: info@hogaresvictoria.es."
+        },
+        {
+          "heading": "Qué datos recogemos",
+          "body": "Únicamente los que facilitas voluntariamente en los formularios de contacto y de voluntariado: nombre, correo electrónico, teléfono si lo indicas, motivo de contacto y el contenido de tu mensaje. Esta web no utiliza perfiles publicitarios ni elabora perfiles de comportamiento."
+        },
+        {
+          "heading": "Datos de salud",
+          "body": "No solicitamos información médica ni datos relativos a la salud a través de esta web. Te pedimos que no los incluyas en los formularios. Si necesitas tratar una cuestión de ese tipo, lo haremos por un canal directo contigo."
+        },
+        {
+          "heading": "Para qué los usamos",
+          "body": "Exclusivamente para responder a tu solicitud y, en su caso, para mantener el contacto relativo a esa solicitud. No cedemos tus datos a terceros ni los utilizamos para enviarte comunicaciones comerciales."
+        },
+        {
+          "heading": "Base jurídica",
+          "body": "El consentimiento que otorgas al enviar el formulario, y el interés legítimo de la asociación en atender las solicitudes que recibe."
+        },
+        {
+          "heading": "Cuánto tiempo los conservamos",
+          "body": "El tiempo necesario para atender tu solicitud y, después, durante los plazos legalmente exigibles. Transcurrido ese periodo, los datos se suprimen."
+        },
+        {
+          "heading": "Tus derechos",
+          "body": "Puedes solicitar el acceso, la rectificación, la supresión, la limitación o la portabilidad de tus datos, así como oponerte a su tratamiento, escribiendo a info@hogaresvictoria.es. También puedes presentar una reclamación ante la Agencia Española de Protección de Datos."
+        },
+        {
+          "heading": "Proveedores externos",
+          "body": "Los donativos se tramitan a través de PayPal, que actúa como responsable independiente del tratamiento. Los vídeos se alojan en YouTube y solo se cargan cuando decides reproducirlos. El alojamiento de esta web y el envío de los formularios pueden implicar el tratamiento por parte de proveedores técnicos, con los contratos de encargo correspondientes."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Política de cookies",
+      "sections": [
+        {
+          "heading": "Cookies propias",
+          "body": "Esta web utiliza una única cookie técnica para recordar el idioma que has elegido. Es necesaria para el funcionamiento del sitio y no requiere consentimiento."
+        },
+        {
+          "heading": "Servicios externos",
+          "body": "Los vídeos de YouTube no se cargan automáticamente: solo se conectan con ese servicio cuando pulsas el botón de reproducción. En ese momento YouTube puede instalar sus propias cookies, sujetas a su política de privacidad."
+        },
+        {
+          "heading": "Analítica",
+          "body": "Esta web no incorpora herramientas de analítica ni de seguimiento publicitario. Si en el futuro se añadiera alguna, se implementaría previamente un sistema de consentimiento conforme a la normativa aplicable."
+        },
+        {
+          "heading": "Cómo gestionarlas",
+          "body": "Puedes eliminar o bloquear las cookies desde la configuración de tu navegador. Hacerlo no impide el uso de esta web, aunque el idioma dejará de recordarse entre visitas."
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "label": "Error 404",
+    "title": "Aquí no hay nada.",
+    "body": "La página que buscas no existe o ha cambiado de dirección. Puedes volver al inicio o ir directamente a lo que probablemente estabas buscando.",
+    "helpful": "Enlaces útiles"
+  },
+  "alt": {
+    "comunidad-campo-atardecer": "Un grupo de personas del hogar conversa de pie en un campo abierto, al atardecer.",
+    "lema-camiseta": "Un miembro del equipo abraza a una persona. En la espalda de su camiseta se lee: Lo hemos vivido, lo hemos sufrido, lo hemos vencido.",
+    "mesa-hogar-comida": "Varias personas comparten una comida alrededor de la mesa del hogar de acogida.",
+    "donacion-furgoneta-alimentos": "Cajas de fruta y verdura apiladas en el interior de la furgoneta de la asociación.",
+    "orilla-manos-alzadas": "Un grupo celebra a la orilla de un embalse, con las manos alzadas.",
+    "hogar-reunion-mesa": "Reunión de trabajo alrededor de la mesa del hogar de acogida, con un ordenador portátil abierto.",
+    "sesion-grupo-carpa": "Sesión grupal en una carpa, con varias personas sentadas escuchando.",
+    "equipo-parque-espaldas": "El equipo de Hogares Victoria camina por un parque de Madrid, visto desde atrás.",
+    "hogar-patio-encuentro": "Encuentro al aire libre en el patio del hogar de acogida, con mesas y sillas.",
+    "reparto-alimentos-mercado": "Voluntarios cargan sandías y cajas de fruta donadas junto a la furgoneta.",
+    "calle-escucha-cercania": "Un miembro del equipo se agacha para hablar con una persona sentada en el césped de un parque.",
+    "calle-acercamiento-parque": "El equipo reparte comida a un grupo de personas en un parque de Madrid.",
+    "calle-orientacion-mujer": "Una voluntaria conversa con una mujer durante una salida de intervención en calle.",
+    "calle-cafe-companiaa": "El equipo reparte bebida caliente a varias personas durante una salida en calle.",
+    "calle-grupo-conversacion": "Un grupo de personas conversa con el equipo junto a un edificio.",
+    "calle-apoyo-escalera": "Una voluntaria acompaña a una joven sentada en unas escaleras.",
+    "calle-atencion-acera": "Dos voluntarias atienden a una persona sentada en el suelo de una acera.",
+    "calle-entrega-alimento": "Un voluntario entrega comida a una persona en la calle.",
+    "calle-oracion-muro": "Dos miembros del equipo acompañan a un hombre junto a un muro con grafitis.",
+    "asentamiento-madrid": "Asentamiento con tiendas de campaña y residuos entre los árboles, en la periferia de Madrid.",
+    "calle-atardecer-contacto": "El equipo conversa con un joven en un descampado, al atardecer.",
+    "calle-tienda-campania": "Un voluntario entrega comida a una persona que vive en una tienda de campaña.",
+    "bautismo-lago": "Un grupo de hombres vestidos de blanco participa en un bautismo dentro del agua.",
+    "bautismo-lago-grupo": "Seis hombres vestidos de blanco posan dentro del agua tras un bautismo.",
+    "bautismo-orilla": "Momento de un bautismo en el agua, con un hombre con la mano alzada.",
+    "celebracion-orilla": "Un grupo celebra bajo los sauces, a la orilla del agua.",
+    "hogar-reunion-equipo": "Reunión del equipo alrededor de la mesa del hogar, con documentos y un ordenador.",
+    "fundadores-salazar": "Luis y Vangie Salazar, fundadores de Hogares Victoria Internacional.",
+    "congreso-peru-entrega": "Entrega de diplomas durante el acto de reconocimiento en el Congreso de la República del Perú.",
+    "congreso-peru-hemiciclo": "Acto de reconocimiento en una sala del Congreso de la República del Perú.",
+    "congreso-peru-grupo": "Varias personas reconocidas posan con sus diplomas y medallas en el Congreso del Perú.",
+    "chorrillos-placa": "Entrega de una placa conmemorativa durante un acto oficial.",
+    "espana-presentacion-escenario": "Presentación de Hogares Victoria España sobre un escenario, con la bandera de España.",
+    "tbn-espana-plato": "Plató de televisión de TBN España durante la entrevista al pastor Alfredo Pedraza."
+  }
+}

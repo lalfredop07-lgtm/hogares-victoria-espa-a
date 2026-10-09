@@ -1,0 +1,873 @@
+{
+  "meta": {
+    "siteName": "Hogares Victoria",
+    "legalName": "Asociación Hogares Victoria de España",
+    "titleTemplate": "{page} · Hogares Victoria",
+    "pages": {
+      "home": {
+        "title": "Hogares Victoria · Shelter and support for people facing addiction",
+        "description": "A non-profit association in Madrid offering residential care, personal support and street outreach for people affected by addiction. We have lived it. We have suffered it. We have overcome it."
+      },
+      "help": {
+        "title": "I need help",
+        "description": "If you are living with an addiction, or supporting someone who is, you can talk to us. Here is how to get in touch and what happens next."
+      },
+      "about": {
+        "title": "About us",
+        "description": "Founded in Peru in 1986 and working in Madrid since 2023. The history, mission, values, founders and recognitions of Asociación Hogares Victoria de España."
+      },
+      "work": {
+        "title": "What we do",
+        "description": "Residential care, personal support, help for families, street outreach, training, social reintegration and basic needs."
+      },
+      "stories": {
+        "title": "Stories",
+        "description": "Testimonies and video published by Hogares Victoria, including the testimony of Pastor Alfredo Pedraza and the TBN España interview."
+      },
+      "impact": {
+        "title": "Impact and transparency",
+        "description": "Results for 2025 and 2024, plus the full activity and financial reports of Asociación Hogares Victoria de España, available to download."
+      },
+      "give": {
+        "title": "Get involved",
+        "description": "Give by PayPal or bank transfer, volunteer, or find other ways to support the work of Hogares Victoria in Madrid."
+      },
+      "volunteer": {
+        "title": "Volunteer",
+        "description": "Your time can be part of someone else's recovery. Write to us and tell us how you would like to help."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "Phone, email and contact form for Asociación Hogares Victoria de España."
+      },
+      "legal": {
+        "title": "Legal notice",
+        "description": "Identifying details of Asociación Hogares Victoria de España."
+      },
+      "privacy": {
+        "title": "Privacy policy",
+        "description": "How we handle the personal data you share with us through this website."
+      },
+      "cookies": {
+        "title": "Cookie policy",
+        "description": "Information about cookies and third-party services used on this website."
+      },
+      "notFound": {
+        "title": "Page not found",
+        "description": "The page you are looking for does not exist or has moved."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "work": "What we do",
+    "stories": "Stories",
+    "impact": "Impact",
+    "give": "Get involved",
+    "contact": "Contact",
+    "volunteer": "Volunteer",
+    "menu": "Menu",
+    "close": "Close",
+    "openMenu": "Open the navigation menu",
+    "closeMenu": "Close the navigation menu",
+    "primary": "Main navigation",
+    "skip": "Skip to main content",
+    "language": "Language",
+    "languageSwitch": "Change language",
+    "spanish": "Español",
+    "english": "English"
+  },
+  "cta": {
+    "help": "I need help",
+    "helpShort": "Help",
+    "donate": "Donate",
+    "donateLong": "Make a donation",
+    "volunteer": "Become a volunteer",
+    "collaborate": "I want to help",
+    "otherWays": "Other ways to help",
+    "knowUs": "Find out who we are",
+    "ourStory": "Read our story",
+    "seeProgram": "See the programme",
+    "ourWork": "See what we do",
+    "ourImpact": "See our impact",
+    "ourStories": "Read the stories",
+    "allDocs": "See all reports",
+    "call": "Call {phone}",
+    "writeUs": "Write to us",
+    "backHome": "Back to the homepage"
+  },
+  "common": {
+    "year": "Year",
+    "results": "{year} results",
+    "source": "Source",
+    "sources": "Sources",
+    "download": "Download PDF",
+    "openInNewTab": "opens in a new tab",
+    "pdfSize": "PDF · {size}",
+    "readMore": "Keep reading",
+    "note": "Note",
+    "watch": "Watch the video",
+    "required": "required",
+    "optional": "optional",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyIban": "Copy the IBAN",
+    "ibanCopied": "IBAN copied to clipboard",
+    "free": "Free of charge",
+    "privacyNoteShort": "We protect the identity of the people we support."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Asociación Hogares Victoria de España",
+      "title": "Everyone deserves a second chance.",
+      "lead": "At Hogares Victoria we walk alongside people facing addiction, offering shelter, support and hope so they can begin again.",
+      "scroll": "Keep reading"
+    },
+    "manifesto": {
+      "label": "Our motto",
+      "line1": "We have lived it.",
+      "line2": "We have suffered it.",
+      "line3": "We have overcome it.",
+      "body1": "The people who do the accompanying at Hogares Victoria know this road from the inside. We do not talk about addiction as somebody else's problem: we talk about something we have been through, with its impossible days and its steps backwards.",
+      "body2": "That is why our way of helping does not begin with a diagnosis. It begins with a conversation. Listening without judging, sharing a meal, going along to an appointment, picking up the phone. Everything else comes afterwards, at each person's own pace."
+    },
+    "intro": {
+      "label": "About us",
+      "title": "A home can be where a new story starts.",
+      "body1": "Hogares Victoria is a non-profit civil association, Christian in inspiration, devoted to the shelter, guidance and whole-person support of people affected by addiction and social vulnerability.",
+      "body2": "We work with people facing difficulties related to drugs, alcohol, gambling and other addictions, and with their families too. According to the documentation published by the association, this work is provided free of charge.",
+      "body3": "Christian faith is part of who we are and of how we understand the dignity of every person. Nobody needs to share it to be welcomed here.",
+      "facts": {
+        "founded": "Founded in Peru",
+        "foundedValue": "30 April 1986",
+        "spain": "In Madrid since",
+        "spainValue": "2023",
+        "cost": "Services",
+        "costValue": "Free of charge",
+        "registry": "National Registry",
+        "registryValue": "No. 626775"
+      }
+    },
+    "programs": {
+      "label": "What we do",
+      "title": "Close by, at every stage.",
+      "lead": "A home to live in, someone to talk to, a family to hold steady, and a constant presence in the places nobody else reaches."
+    },
+    "impact": {
+      "label": "2025 results",
+      "title": "What our annual reports say.",
+      "lead": "These figures come from the 2025 Annual Activity Report, signed by the directors of the association. They cover that year alone.",
+      "note": "We do not add these categories together: the same person may have taken part in more than one programme over the course of the year."
+    },
+    "stories": {
+      "label": "Stories",
+      "title": "Voices that have already walked this road.",
+      "lead": "Testimonies, interviews and video published by the organisation itself. Nothing here is re-enacted or scripted."
+    },
+    "history": {
+      "label": "Since 1986",
+      "title": "It began in Barrios Altos, Lima.",
+      "body1": "On 30 April 1986, Hogares Victoria — then known as Centro Victoria — opened its doors in Barrios Altos, in central Lima, to support young people affected by alcohol and drugs.",
+      "body2": "Almost forty years later, that work continues in several countries and, since 2023, in Madrid as well. Luis and Vangie Salazar founded Hogares Victoria Internacional; the Spanish project is led by Pastor Alfredo Pedraza Soriano."
+    },
+    "donate": {
+      "label": "Get involved",
+      "title": "Your support can be part of a new story.",
+      "body": "With your help we can keep offering shelter, food, support and opportunities to people who need to begin again.",
+      "transparency": "In 2025 the association received no public funding at all. Everything that sustains this work comes from members, donors and the sale of crafts made in our own workshops."
+    },
+    "closing": {
+      "title": "Hope is something we build together.",
+      "body": "Whether you are looking for help or want to offer it, the conversation starts here."
+    }
+  },
+  "programs": {
+    "acogida": {
+      "name": "Residential care",
+      "short": "Somewhere to live while everything else is rebuilt.",
+      "intro": "The heart of our work is the residential programme at the home in Quijorna, where people going through withdrawal and rehabilitation live together with daily support.",
+      "whatLabel": "What it includes",
+      "what": [
+        "Accommodation and meals.",
+        "One-to-one support.",
+        "Structured daily routines.",
+        "Work on healthy habits and personal responsibility.",
+        "Emotional and spiritual support.",
+        "Preparation for social reintegration."
+      ],
+      "whoLabel": "Who it is for",
+      "who": "Adults facing addiction who are willing to take part in a model built on shared living, shared responsibility and close day-to-day support.",
+      "note": "Places are limited and availability changes. The best first step is simply to talk to us."
+    },
+    "acompanamiento": {
+      "name": "Personal support",
+      "short": "Someone to talk to, inside the home and beyond it.",
+      "intro": "Alongside the residential programme, the association offers guidance and follow-up throughout the process. The 2025 report records this as individual and group sessions, and as an outpatient programme.",
+      "whatLabel": "What it includes",
+      "what": [
+        "One-to-one guidance and follow-up sessions.",
+        "Group sessions built on mutual support.",
+        "Spiritual accompaniment, for those who want it.",
+        "Ongoing follow-up of each person's process."
+      ],
+      "whoLabel": "Who it is for",
+      "who": "People going through rehabilitation, whether or not they live in the home, and those who have recently left it.",
+      "note": "This support is social, educational and spiritual. It does not replace medical treatment or professional psychological care. When a situation calls for it, we refer people to specialist services."
+    },
+    "familias": {
+      "name": "Support for families",
+      "short": "Addiction never affects just one person.",
+      "intro": "Families are part of the process, and they carry its weight too. That is why the association runs dedicated family support sessions: 82 of them during 2025.",
+      "whatLabel": "What it includes",
+      "what": [
+        "Support and guidance sessions for relatives.",
+        "Space to understand what is happening and what can realistically be expected.",
+        "Support in repairing relationships.",
+        "Family involvement in the process, where it is possible and helpful."
+      ],
+      "whoLabel": "Who it is for",
+      "who": "Mothers, fathers, partners, children, siblings and anyone close to a person living with addiction.",
+      "note": ""
+    },
+    "calle": {
+      "name": "Street outreach and prevention",
+      "short": "Going to where people are, before anyone asks for help.",
+      "intro": "Part of our work happens outside the home: in parks, stations and encampments where drug use is active. The aim there is not to convince anyone of anything, but to show up, listen, and leave a door open.",
+      "whatLabel": "What we do there",
+      "what": [
+        "Approaching people and listening, with no conditions attached.",
+        "Information about the services available.",
+        "Prevention and awareness work.",
+        "Handing out food, water and hygiene products.",
+        "Referral to specialist services where appropriate."
+      ],
+      "whoLabel": "Where we have worked",
+      "who": "The 2024 and 2025 reports document outreach in several areas of the Madrid region.",
+      "note": "These locations reflect outreach recorded in our annual reports. They are not permanent service points or fixed routes: to ask for help, phone or email is far more direct."
+    },
+    "formacion": {
+      "name": "Training and personal development",
+      "short": "Getting a skill back is part of getting a life back.",
+      "intro": "Workshops are part of everyday life in the home. They give shape to the day, rebuild confidence and, in some cases, open a door to work.",
+      "whatLabel": "Workshops on record",
+      "what": [
+        "Relapse prevention.",
+        "Self-esteem and emotional regulation.",
+        "Social skills.",
+        "Music.",
+        "Hospitality.",
+        "Crafts and handiwork.",
+        "Basic English classes.",
+        "Group learning sessions."
+      ],
+      "whoLabel": "Who it is for",
+      "who": "People taking part in the programmes run by the association.",
+      "note": "This is the list of workshops recorded in the 2024 and 2025 reports. What is actually running at any given time depends on the period and on available resources."
+    },
+    "reinsercion": {
+      "name": "Social reintegration",
+      "short": "Getting back to ordinary life.",
+      "intro": "Reintegration is not just about finding a job. It is about independence, keeping a routine going, rebuilding relationships and feeling part of somewhere again.",
+      "whatLabel": "What we work towards",
+      "what": [
+        "Personal independence and managing daily life.",
+        "Shared living and shared responsibility.",
+        "Rebuilding family and social ties.",
+        "Taking part in community activities.",
+        "Preparing for life outside the home."
+      ],
+      "whoLabel": "Who it is for",
+      "who": "People who are making progress and beginning to prepare to leave the residential programme.",
+      "note": ""
+    },
+    "basicas": {
+      "name": "Basic needs",
+      "short": "The essentials, when there is nothing.",
+      "intro": "Before any longer process can begin, there are needs that will not wait. The 2025 report records the material support the association provides on an ongoing basis.",
+      "whatLabel": "What we cover",
+      "what": [
+        "Food.",
+        "Hygiene products.",
+        "Transport for medical and administrative appointments."
+      ],
+      "whoLabel": "Who it is for",
+      "who": "People living in the home and those we meet through street outreach.",
+      "note": "Much of this comes from private donations and from surplus food collected at markets."
+    }
+  },
+  "work": {
+    "hero": {
+      "label": "What we do",
+      "title": "Seven ways of walking alongside.",
+      "lead": "Our work is not a single programme. It is a sequence of supports that adapt to where each person is. This is what our annual activity reports describe."
+    },
+    "indexLabel": "Programmes",
+    "areasTitle": "Areas of Madrid with documented outreach",
+    "ctaTitle": "Do you think we could help?",
+    "ctaBody": "You do not need to have anything decided. A phone call or an email is enough to start talking."
+  },
+  "help": {
+    "hero": {
+      "label": "I need help",
+      "title": "You do not have to face this alone.",
+      "lead": "If you are living with an addiction, or supporting someone who is, you can talk to us. You do not need to have anything prepared or decided."
+    },
+    "callTitle": "Talk to us",
+    "callBody": "The most direct way to reach us is by phone. If you would rather write, you can email us or use the form on this page.",
+    "whatTitle": "What Hogares Victoria is",
+    "whatBody": "We are a non-profit association with a residential home in Quijorna (Madrid) and an administrative office in the city. We support people affected by addiction and social vulnerability. According to the documentation published by the association, our services are free of charge.",
+    "offerTitle": "What we can offer you",
+    "offer": [
+      "To listen, without judging you and without conditions.",
+      "To explain how our residential programme works.",
+      "One-to-one and group support sessions.",
+      "Guidance for your family as well.",
+      "Basic needs such as food and hygiene products.",
+      "A referral to a more specialised service if that is what you need."
+    ],
+    "limitsTitle": "What we are not",
+    "limitsBody": "We are not a medical facility or an emergency service. We do not provide medical detoxification or psychiatric treatment. When a situation calls for specialist professional care, we refer: in 2025 we accompanied 22 people to Asociación Betel for exactly this reason.",
+    "emergencyTitle": "If this is urgent",
+    "emergencyBody": "In a medical emergency or when there is an immediate risk to life, call 112. It is the emergency number across Spain and it answers 24 hours a day.",
+    "prepareTitle": "What helps us to know",
+    "prepareBody": "Three things help us point you in the right direction. You do not need to give medical details or say more than you want to.",
+    "prepare": [
+      "Whether you are writing for yourself or for someone else.",
+      "Roughly where you are.",
+      "A phone number or email where we can reach you."
+    ],
+    "privacyNote": "Please do not send medical reports or health data through this form. When that needs discussing, we will do it directly with you.",
+    "processTitle": "What happens next",
+    "processBody": "We will get in touch to talk through your situation without rushing and to explain how the programme works. Access to a place in the home depends on availability at the time and is considered case by case.",
+    "formTitle": "Write to us"
+  },
+  "about": {
+    "hero": {
+      "label": "About us",
+      "title": "An association born out of experience.",
+      "lead": "Hogares Victoria began in 1986 in a neighbourhood of Lima and continues today in Madrid. In between lie four decades of people who chose to walk others through what they had been through themselves."
+    },
+    "identity": {
+      "label": "Identity",
+      "title": "Who we are",
+      "body1": "Asociación Hogares Victoria de España is a non-profit civil body, Christian in inspiration, entered in the National Register of Associations of the Spanish Ministry of the Interior under number 626775.",
+      "body2": "We provide residential care and whole-person support for people with addiction problems and in situations of social vulnerability. Our work covers guidance, prevention, rehabilitation and reintegration, and is provided free of charge."
+    },
+    "origin": {
+      "label": "Origin",
+      "title": "Barrios Altos, 1986.",
+      "body1": "On 30 April 1986, Hogares Victoria — then called Centro Victoria — began its work in Barrios Altos, in central Lima. Its purpose was to offer support and a route to restoration for people, especially young people, affected by alcohol and drugs.",
+      "body2": "Over the years the movement spread to countries across South America, North America and parts of Central America. The association's previous website stated that there were more than a hundred homes worldwide; that figure is still to be confirmed, which is why we do not present it here as current."
+    },
+    "foundersTitle": "International founders",
+    "foundersBody": "Luis and Vangie Salazar founded Hogares Victoria Internacional, the organisation the Spanish project belongs to.",
+    "spain": {
+      "label": "Spain",
+      "title": "Madrid, since 2023.",
+      "body1": "The 2025 financial report puts the association's activity in Madrid at around two and a half years during that financial year. The Spanish project brings together residential care, prevention, community outreach and reintegration.",
+      "body2": "The association currently runs two sites: the residential home in Quijorna, where the programme itself takes place, and an administrative office in Madrid for management, coordination and external enquiries."
+    },
+    "missionLabel": "Mission",
+    "mission": "To walk alongside those struggling with addiction with whole-person support, love and hope in Christ. Through counselling, discipleship and spiritual restoration, we seek to help each person find a new purpose and become an agent of change for their family and their community.",
+    "visionLabel": "Vision",
+    "vision": "To be a home where every person finds the support, the hope and the love of Christ they need to restore their life and begin again.",
+    "expectationLabel": "Where we want to go",
+    "expectation": "To widen the network of homes in Spain and across Europe so as to reach more people in vulnerable situations, offering both practical and spiritual support and teaching values that help family and social reintegration.",
+    "expectationNote": "This is an aspiration for the future, not a network that already exists across Europe.",
+    "valuesLabel": "Values",
+    "valuesTitle": "What holds this work up",
+    "values": [
+      {
+        "name": "Dignity",
+        "body": "Nobody is reduced to their addiction. Everyone who comes through the door arrives with a whole life behind them."
+      },
+      {
+        "name": "Shared experience",
+        "body": "The people doing the supporting know this road from the inside. That changes how they listen."
+      },
+      {
+        "name": "Living together",
+        "body": "The home is not a service. It is a house, with routines, shared meals and chores that get divided up."
+      },
+      {
+        "name": "Shared responsibility",
+        "body": "We walk alongside people; we do not do it for them. Each person carries their own process."
+      },
+      {
+        "name": "Free of charge",
+        "body": "What someone can afford does not decide whether they get help."
+      },
+      {
+        "name": "Hope",
+        "body": "Christian faith sustains this work. It is not a requirement for being welcomed."
+      }
+    ],
+    "faithLabel": "Our faith",
+    "faithTitle": "Where this way of seeing comes from",
+    "faithBody": "Hogares Victoria is a Christian-inspired organisation. That faith is why we believe no life is beyond reach, and why the door stays open after a relapse. Two biblical passages the organisation uses carry particular weight in our identity: Psalm 72:12-15 and 1 Samuel 2:8, both about lifting up those who cannot lift themselves.",
+    "faithNote": "We do not reproduce the text of these passages here: the wording depends on the translation and on its terms of use.",
+    "timelineLabel": "Timeline",
+    "timelineTitle": "Documented milestones",
+    "recognitionsLabel": "Recognitions",
+    "recognitionsTitle": "What others have recognised",
+    "teamLabel": "Team",
+    "teamTitle": "Who leads the association",
+    "teamBody": "The association is led by Pastor Alfredo Pedraza Soriano. Institutional documents from 2025 also record Silvie Yvonne Espinel Bello as secretary.",
+    "teamNote": "Roles and team photographs are still to be confirmed, and require the express authorisation of the people involved.",
+    "ctaTitle": "Here is what all of this looks like day to day.",
+    "ctaBody": "The concrete side of our work — the home, the sessions, the street, the workshops — is set out on the what we do page."
+  },
+  "timeline": {
+    "origen": {
+      "title": "Centro Victoria opens in Lima",
+      "body": "On 30 April 1986, in Barrios Altos, central Lima, the work that would later be known as Hogares Victoria begins."
+    },
+    "expansion": {
+      "title": "The movement spreads",
+      "body": "Over almost four decades, the organisation extends to countries across South America, North America and parts of Central America."
+    },
+    "espana": {
+      "title": "Hogares Victoria arrives in Madrid",
+      "body": "Work begins in Spain, with an administrative office on Avenida de Badajoz and the first outreach in areas of the city where drug use is active."
+    },
+    "quijorna": {
+      "title": "The residential home opens in Quijorna",
+      "body": "The 2024 financial report records three months of rent for the home at Calle Real 31, placing its opening in the final stretch of the year."
+    },
+    "consolidacion": {
+      "title": "A year of consolidation",
+      "body": "In 2025 the residential service runs continuously all year: 38 people supported in the homes and more than 420 individual and group sessions."
+    }
+  },
+  "recognitions": {
+    "congreso": {
+      "title": "Congress of the Republic of Peru",
+      "body": "Congress recognised 23 pastors for more than thirty years of missionary and social work. The available documentation records the ceremony but not its exact date."
+    },
+    "chorrillos": {
+      "title": "Chorrillos Town Council",
+      "body": "The association's previous website recorded a recognition from Chorrillos Town Council awarded to Pastor Alfredo Pedraza. No date is recorded."
+    },
+    "note": "We present these recognitions exactly as they appear in the organisation's documentation, without claiming more for them than they are."
+  },
+  "stories": {
+    "hero": {
+      "label": "Stories",
+      "title": "Told by the people who lived them.",
+      "lead": "Real material, published by the organisation on its own channel. No re-enacted testimonies, and no words attributed to people who did not say them."
+    },
+    "featuredLabel": "Featured",
+    "allLabel": "All the material",
+    "noteTitle": "About this material",
+    "noteBody": "All five videos come from the channel «IGLESIA VICTORIA, CRISTO EN EL CENTRO» and were published or linked on the association's previous website. We verified their title and authorship before including them.",
+    "privacyTitle": "Playback and privacy",
+    "privacyBody": "The videos do not load until you choose to play them. When you do, your browser connects to YouTube and that service's own terms and cookies apply.",
+    "items": {
+      "testimonio-alfredo-pedraza": {
+        "title": "The testimony of Pastor Alfredo Pedraza",
+        "description": "A first-person account from the man who leads Hogares Victoria in Spain: the addiction, the loss and the road back. Everything the association does in Madrid today started here. In Spanish."
+      },
+      "tbn-espana": {
+        "title": "Interview on TBN España",
+        "description": "March 2023. The arrival of the project in Spain, told in a television studio just months after the work in Madrid began. In Spanish."
+      },
+      "plaza-benavente": {
+        "title": "A testimony at Plaza Benavente",
+        "description": "Filmed at one of the street outreach points in central Madrid, during a shift with the team. In Spanish."
+      },
+      "presentacion-internacional": {
+        "title": "Introducing Hogares Victoria Internacional",
+        "description": "An overview of the international organisation that the Spanish project belongs to. In Spanish."
+      },
+      "trailer-espana": {
+        "title": "Hogares Victoria España trailer",
+        "description": "A short look at the work of the team in Madrid: the home, the street and the community. In Spanish."
+      }
+    },
+    "ctaTitle": "What if the next story were yours?",
+    "ctaBody": "If you are living with an addiction, or supporting someone who is, we can talk."
+  },
+  "impact": {
+    "hero": {
+      "label": "Impact and transparency",
+      "title": "Clear accounts, work in plain sight.",
+      "lead": "We publish our activity reports and our financial reports in full. They are summarised here, and the original documents can be downloaded complete."
+    },
+    "resultsLabel": "Results",
+    "resultsTitle": "{year} results",
+    "yearSelector": "Financial year",
+    "activityLabel": "Activity",
+    "peopleLabel": "People",
+    "note2025": "Figures taken from the 2025 Annual Activity Report. They cover that year alone and are not cumulative.",
+    "note2024": "Figures taken from the 2024 Activity Report.",
+    "discrepancyTitle": "A discrepancy we are not hiding",
+    "discrepancyBody": "The 2024 report states that «more than 280 individual and group sessions» took place, but its own breakdown gives 260 group and 60 individual sessions, which add up to 320. We will not publish a reconciled figure until the association confirms which is correct.",
+    "noAggregationTitle": "Why we do not add these figures up",
+    "noAggregationBody": "The people supported in the homes, those in the outpatient programme and those referred elsewhere may partly be the same people. Adding them together would produce a total number of beneficiaries that is simply not real.",
+    "comparisonLabel": "Comparison",
+    "comparisonTitle": "2024 and 2025, side by side",
+    "comparisonBody": "Two consecutive years, each with its own figures. The first full year of the Quijorna home accounts for much of the difference.",
+    "financeLabel": "Finances",
+    "financeTitle": "Where every euro comes from and where it goes",
+    "financeBody": "In {year} the association received {income} and spent {expenses}, leaving a surplus of {surplus}. It received no public funding.",
+    "totalIncome": "Total income",
+    "totalExpenses": "Total expenditure",
+    "surplus": "Surplus",
+    "shareOfTotal": "{percent} of the total",
+    "fundingTitle": "How the association is funded",
+    "fundingBody": "The main source of funding is private generosity: donations, membership fees and the sale of keyrings and crafts made in the association's own workshops. Transfers from the parent organisation in Peru add to this. Neither of the two published financial years records any public funding.",
+    "docsLabel": "Documents",
+    "docsTitle": "Official reports",
+    "docsBody": "These are the complete documents, exactly as signed by the directors of the association. They are written in Spanish.",
+    "docTypes": {
+      "activities": "Activity Report",
+      "financial": "Financial Report"
+    },
+    "ctaTitle": "You can keep this going.",
+    "ctaBody": "Every euro that comes in shows up in next year's report."
+  },
+  "metrics": {
+    "peopleInHomes": {
+      "label": "People supported in the homes",
+      "note": "Working to overcome addiction to drugs and alcohol."
+    },
+    "outpatient": {
+      "label": "Participants in the outpatient programme",
+      "note": "Support provided without residential admission."
+    },
+    "referrals": {
+      "label": "People referred to Asociación Betel",
+      "note": "Referrals to a service with greater specialisation in treatment."
+    },
+    "therapySessions": {
+      "label": "Individual and group sessions",
+      "note": "Published breakdown: {group} group and {individual} individual."
+    },
+    "familySessions": {
+      "label": "Family support sessions",
+      "note": "Support for the relatives of people living with addiction."
+    },
+    "awarenessCampaigns": {
+      "label": "Awareness campaigns",
+      "note": "On the risks of alcohol, drugs and gambling."
+    },
+    "trainingCourses": {
+      "label": "Training courses",
+      "note": "With an emphasis on music, hospitality and crafts."
+    },
+    "completedProcess": {
+      "label": "People who completed their rehabilitation process",
+      "note": "As worded in the annual report for that year."
+    }
+  },
+  "give": {
+    "hero": {
+      "label": "Get involved",
+      "title": "Keeping a home open costs less than you would think.",
+      "lead": "In 2025, everything the association did in Madrid was sustained on €37,730.96. With no public funding: only members, donors and what gets made in the workshops."
+    },
+    "waysLabel": "Ways to help",
+    "waysTitle": "Four ways to be part of this",
+    "ways": {
+      "paypal": {
+        "name": "Give through PayPal",
+        "body": "The quickest route. It takes you to the association's official donation link."
+      },
+      "transfer": {
+        "name": "Bank transfer",
+        "body": "For one-off or regular gifts set up from your own bank."
+      },
+      "volunteer": {
+        "name": "Volunteering",
+        "body": "Time, skills and presence. Sometimes that is what is most needed."
+      },
+      "partner": {
+        "name": "Institutional partnership",
+        "body": "For companies, organisations and public bodies who want to know the project."
+      }
+    },
+    "paypalTitle": "Give through PayPal",
+    "paypalBody": "The button opens the donation link published by the association. The payment happens entirely within PayPal: this website neither collects nor stores any payment details.",
+    "paypalNote": "Before the site goes live, this link should be checked to confirm it is still the association's official one.",
+    "transferTitle": "Bank transfer",
+    "transferBody": "If you prefer to set the transfer up from your own bank, these are the details published by the association.",
+    "bankLabel": "Bank",
+    "ibanLabel": "IBAN",
+    "bicLabel": "BIC / SWIFT",
+    "holderLabel": "Account holder",
+    "transferNote": "If you would like us to be able to thank you or issue a receipt, put your name in the reference and write to us at {email}.",
+    "recurringTitle": "What about giving regularly?",
+    "recurringBody": "You can set up a standing order from your own bank using the details above. We do not have an automatic subscription in place: we would rather not offer something we cannot yet guarantee.",
+    "trustLabel": "Trust",
+    "trustTitle": "Where your gift goes",
+    "trustBody": "Most of the budget covers the essentials: rent for the home and the office, utilities, food, transport for medical and administrative appointments, and the workshops. The full breakdown is in the financial report.",
+    "trustFacts": {
+      "grants": "Public funding received in 2025",
+      "grantsValue": "€0",
+      "budget": "Total expenditure in 2025",
+      "budgetValue": "€37,730.96",
+      "home": "Rent for the residential home in 2025",
+      "homeValue": "€15,600"
+    },
+    "taxTitle": "Tax relief",
+    "taxBody": "Tax deductions for donations depend on the tax regime that applies to each organisation. We cannot yet confirm which one applies here, so we would rather not claim anything about it. Write to us and we will look into it with you.",
+    "otherTitle": "Other ways to help",
+    "otherBody": "If you would like to donate food, materials or services, please write to us first. That way we can make sure what arrives is what is actually needed at the time."
+  },
+  "volunteer": {
+    "hero": {
+      "label": "Volunteer",
+      "title": "Your time can change a life too.",
+      "lead": "Much of what happens at Hogares Victoria is held up by volunteers. The 2025 report says so in as many words: volunteering is a key element in the sustainability of the project."
+    },
+    "whatTitle": "What taking part means",
+    "whatBody": "Volunteering here is very concrete: joining a street outreach shift, helping run a workshop, assisting with paperwork, driving the van, preparing a meal, simply being around. You do not need to be a specialist. You do need to be reliable and respectful.",
+    "whyTitle": "Why it matters",
+    "whyBody": "For someone nobody has asked after in months, one steady presence can change the mood of a whole week. And for the team, every extra pair of hands widens what can be done without widening the budget.",
+    "expectTitle": "What you can expect from us",
+    "expect": [
+      "We will reply and talk to you before anything else.",
+      "We will explain what each activity involves and what is expected of you.",
+      "We will not put you in a situation you are not ready for.",
+      "We will respect the time you can actually give."
+    ],
+    "formTitle": "Tell us about yourself",
+    "formBody": "Fill in the form and we will write back. If you would rather call, the number is below.",
+    "areasNote": "The specific areas of volunteering are agreed in a later conversation, depending on what is needed at the time."
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact",
+      "title": "Let us talk.",
+      "lead": "To ask for help, to offer it, or to ask anything at all about the association."
+    },
+    "directTitle": "Direct contact",
+    "formTitle": "Write to us",
+    "formBody": "We will reply to the email address or phone number you give us.",
+    "locationsTitle": "Where we are",
+    "homeLabel": "Residential home",
+    "officeLabel": "Administrative office",
+    "locationsNote": "These are the addresses recorded in the association's documentation. Please call or write before visiting in person: not every site receives visitors without an appointment.",
+    "legalTitle": "Identifying details",
+    "legalName": "Registered name",
+    "legalRegistry": "National Register of Associations",
+    "legalRegistryValue": "Section 1, number 626775",
+    "legalNif": "Tax ID (NIF)",
+    "legalDirector": "Director",
+    "helpBannerTitle": "If what you are looking for is help, for yourself or someone close to you",
+    "helpBannerBody": "We have a page written for exactly that, with everything worth knowing before you call."
+  },
+  "forms": {
+    "name": "Full name",
+    "firstName": "First name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "reason": "Reason for getting in touch",
+    "message": "Message",
+    "messagePlaceholderContact": "Tell us briefly how we can help.",
+    "messagePlaceholderVolunteer": "Tell us what you would like to do and how much time you have.",
+    "messagePlaceholderHelp": "Tell us whatever you want to tell us. No medical details needed.",
+    "availability": "Availability",
+    "availabilityPlaceholder": "For example: Saturday mornings",
+    "city": "Town or city",
+    "forWhom": "Who are you writing for?",
+    "forWhomOptions": {
+      "self": "For myself",
+      "other": "For someone else",
+      "professional": "I work for another organisation"
+    },
+    "reasons": {
+      "info": "I need information",
+      "collaborate": "I want to help",
+      "donation": "Donations",
+      "institutional": "Institutional enquiry",
+      "other": "Something else"
+    },
+    "consent": "I have read and accept the <privacy>privacy policy</privacy>.",
+    "consentHint": "We will use your details only to reply to you.",
+    "submit": "Send message",
+    "submitVolunteer": "Send application",
+    "sending": "Sending…",
+    "successTitle": "Message sent",
+    "successBody": "Thank you for writing. We will reply as soon as we can, using the contact details you gave us.",
+    "errorTitle": "We could not send your message",
+    "errorBody": "Something went wrong while sending the form. You can try again, or write to us directly at {email}.",
+    "notConfiguredTitle": "This form is not active yet",
+    "notConfiguredBody": "Email sending has not been configured on the server yet. In the meantime, write to {email} or call {phone}.",
+    "rateLimitTitle": "Too many messages",
+    "rateLimitBody": "We have received several messages from your connection in a short time. Please try again in a few minutes.",
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "That email address does not look valid. Please check it.",
+      "phoneInvalid": "That phone number does not look valid.",
+      "phoneRequired": "Please enter a contact phone number.",
+      "contactRequired": "We need at least a phone number or an email address so we can reply.",
+      "messageRequired": "Please write your message.",
+      "messageShort": "Please tell us a little more (at least 10 characters).",
+      "reasonRequired": "Please choose a reason for getting in touch.",
+      "consentRequired": "We need your consent in order to reply.",
+      "summaryTitle": "Please check these fields before sending"
+    }
+  },
+  "video": {
+    "play": "Play «{title}»",
+    "playHint": "Playing will load YouTube",
+    "openOnYouTube": "Watch on YouTube",
+    "channel": "Channel",
+    "dateUnknown": "Date not documented",
+    "loading": "Loading the player…"
+  },
+  "footer": {
+    "tagline": "A non-profit association offering shelter, guidance and support to people affected by addiction and social vulnerability.",
+    "navTitle": "Navigation",
+    "helpTitle": "Help and contact",
+    "giveTitle": "Get involved",
+    "legalTitle": "Legal information",
+    "transparency": "Transparency",
+    "legalNotice": "Legal notice",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy",
+    "rights": "© {year} Asociación Hogares Victoria de España. All rights reserved.",
+    "registry": "National Register of Associations, Section 1, no. 626775 · NIF G56681133",
+    "credit": "Photographs provided by Asociación Hogares Victoria de España."
+  },
+  "legal": {
+    "reviewNoticeTitle": "Pending legal review",
+    "reviewNoticeBody": "This document sets out a professional structure drafted from the information available, but it has not yet been reviewed or approved by a legal adviser. It should not be treated as a final legal text.",
+    "lastUpdated": "Last updated",
+    "notice": {
+      "title": "Legal notice",
+      "sections": [
+        {
+          "heading": "Identifying details",
+          "body": "In compliance with the duty of information set out in Spanish Law 34/2002 on Information Society Services and Electronic Commerce, the following details are published: owner, Asociación Hogares Victoria de España; tax ID G56681133; entered in the National Register of Associations of the Ministry of the Interior, Section 1, number 626775; registered address at Calle Real 31, Quijorna (Madrid); telephone +34 647 672 300; email info@hogaresvictoria.es."
+        },
+        {
+          "heading": "Purpose",
+          "body": "This website exists to provide information about the activity of the association and to allow visitors to get in touch, request information and make donations through external providers."
+        },
+        {
+          "heading": "Terms of use",
+          "body": "Accessing this site implies acceptance of these terms. Users undertake to make proper use of its contents and not to use them for unlawful purposes or in ways harmful to others."
+        },
+        {
+          "heading": "Intellectual property",
+          "body": "The texts, logo and photographs on this site belong to Asociación Hogares Victoria de España or are used with its permission. They may not be reproduced without prior consent."
+        },
+        {
+          "heading": "External links",
+          "body": "This site contains links to third-party services such as PayPal and YouTube. The association is not responsible for the content or the privacy policies of those services."
+        },
+        {
+          "heading": "Accuracy of information",
+          "body": "The information published about programmes, activities and results comes from the official annual reports of the association. The association does not guarantee the permanent availability of every service described, which depends on the resources available at any given time."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "sections": [
+        {
+          "heading": "Data controller",
+          "body": "Asociación Hogares Victoria de España, tax ID G56681133, registered address Calle Real 31, Quijorna (Madrid). Contact email: info@hogaresvictoria.es."
+        },
+        {
+          "heading": "What data we collect",
+          "body": "Only what you voluntarily provide through the contact and volunteering forms: name, email address, phone number if you give one, reason for contact and the content of your message. This website does not use advertising profiles and does not build behavioural profiles."
+        },
+        {
+          "heading": "Health data",
+          "body": "We do not request medical information or health data through this website, and we ask you not to include any in the forms. If something of that kind needs discussing, we will do it through a direct channel with you."
+        },
+        {
+          "heading": "What we use it for",
+          "body": "Solely to respond to your enquiry and, where relevant, to keep in touch about that enquiry. We do not pass your data to third parties and we do not use it to send you marketing."
+        },
+        {
+          "heading": "Legal basis",
+          "body": "The consent you give when submitting the form, and the legitimate interest of the association in responding to the enquiries it receives."
+        },
+        {
+          "heading": "How long we keep it",
+          "body": "For as long as is needed to deal with your enquiry and, afterwards, for any legally required retention periods. Once that period has passed, the data is deleted."
+        },
+        {
+          "heading": "Your rights",
+          "body": "You can request access to, rectification of, erasure of, restriction of or portability of your data, and object to its processing, by writing to info@hogaresvictoria.es. You may also lodge a complaint with the Spanish Data Protection Agency (AEPD)."
+        },
+        {
+          "heading": "External providers",
+          "body": "Donations are processed through PayPal, which acts as an independent data controller. Videos are hosted on YouTube and only load when you choose to play them. Hosting this website and delivering the forms may involve processing by technical providers under the corresponding data processing agreements."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie policy",
+      "sections": [
+        {
+          "heading": "Our own cookies",
+          "body": "This website uses a single technical cookie to remember the language you have chosen. It is necessary for the site to work and does not require consent."
+        },
+        {
+          "heading": "External services",
+          "body": "YouTube videos do not load automatically: a connection to that service is only made when you press play. At that point YouTube may set its own cookies, subject to its privacy policy."
+        },
+        {
+          "heading": "Analytics",
+          "body": "This website does not include analytics or advertising tracking tools. If any were added in future, a consent mechanism compliant with the applicable regulations would be implemented first."
+        },
+        {
+          "heading": "How to manage them",
+          "body": "You can delete or block cookies from your browser settings. Doing so does not prevent you from using this site, although your language choice will no longer be remembered between visits."
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "label": "Error 404",
+    "title": "There is nothing here.",
+    "body": "The page you are looking for does not exist or has moved. You can go back to the homepage, or head straight to what you were probably looking for.",
+    "helpful": "Useful links"
+  },
+  "alt": {
+    "comunidad-campo-atardecer": "A group of people from the home standing and talking in an open field at sunset.",
+    "lema-camiseta": "A team member embraces someone. The back of his shirt reads: we have lived it, we have suffered it, we have overcome it.",
+    "mesa-hogar-comida": "Several people sharing a meal around the table of the residential home.",
+    "donacion-furgoneta-alimentos": "Crates of fruit and vegetables stacked inside the association's van.",
+    "orilla-manos-alzadas": "A group celebrating at the edge of a reservoir with their hands raised.",
+    "hogar-reunion-mesa": "A working meeting around the table of the residential home, with an open laptop.",
+    "sesion-grupo-carpa": "A group session in a marquee, with several people seated and listening.",
+    "equipo-parque-espaldas": "The Hogares Victoria team walking through a park in Madrid, seen from behind.",
+    "hogar-patio-encuentro": "An outdoor gathering in the courtyard of the residential home, with tables and chairs.",
+    "reparto-alimentos-mercado": "Volunteers loading donated watermelons and crates of fruit beside the van.",
+    "calle-escucha-cercania": "A team member crouching to talk with someone sitting on the grass in a park.",
+    "calle-acercamiento-parque": "The team handing out food to a group of people in a park in Madrid.",
+    "calle-orientacion-mujer": "A volunteer talking with a woman during a street outreach shift.",
+    "calle-cafe-companiaa": "The team handing out hot drinks to several people during a street outreach shift.",
+    "calle-grupo-conversacion": "A group of people talking with the team beside a building.",
+    "calle-apoyo-escalera": "A volunteer sitting with a young woman on a flight of steps.",
+    "calle-atencion-acera": "Two volunteers helping someone sitting on the pavement.",
+    "calle-entrega-alimento": "A volunteer handing food to someone on the street.",
+    "calle-oracion-muro": "Two team members standing with a man beside a graffitied wall.",
+    "asentamiento-madrid": "An encampment with tents and waste among the trees on the edge of Madrid.",
+    "calle-atardecer-contacto": "The team talking with a young man on waste ground at sunset.",
+    "calle-tienda-campania": "A volunteer handing food to someone living in a tent.",
+    "bautismo-lago": "A group of men dressed in white taking part in a baptism in the water.",
+    "bautismo-lago-grupo": "Six men dressed in white standing in the water after a baptism.",
+    "bautismo-orilla": "A moment during a baptism in the water, with a man raising his hand.",
+    "celebracion-orilla": "A group celebrating under willow trees at the water's edge.",
+    "hogar-reunion-equipo": "A team meeting around the table of the home, with documents and a laptop.",
+    "fundadores-salazar": "Luis and Vangie Salazar, founders of Hogares Victoria Internacional.",
+    "congreso-peru-entrega": "Certificates being presented during the recognition ceremony at the Congress of the Republic of Peru.",
+    "congreso-peru-hemiciclo": "A recognition ceremony in a chamber of the Congress of the Republic of Peru.",
+    "congreso-peru-grupo": "Several people holding their certificates and medals at the Congress of Peru.",
+    "chorrillos-placa": "A commemorative plaque being presented at an official ceremony.",
+    "espana-presentacion-escenario": "A presentation of Hogares Victoria España on stage, with the Spanish flag.",
+    "tbn-espana-plato": "The TBN España television studio during the interview with Pastor Alfredo Pedraza."
+  }
+}
